@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.2",
-  "min_required_version": "1.2",
-  "download_url": "https://github.com/your-username/SHEFO-TOOL/releases/download/v1.1/SHEFO_TOOL.exe",
+  "latest_version": "1.3",
+  "min_required_version": "1.3",
+  "download_url": "https://download1077.mediafire.com/v4blzsdg44pg8qzsAgGoS_7qKeYAGQJF-UUeQO556CS77afmLXI5wTmwBH-U38EjQYlBIVkcC9GdEe0xfUWd_MPMn2a3DYhCG2QL9KTL22nGOuYp4PfeDD3eqhgb3H8cT1tJH2pkeWJQHCqR0CaTgYGiVA1BdCNYoQ2nB05LZ2eD8d0/vfp3b5a8t04akzs/Shefo_GFX_Tool_Setup.exe",
   "changelog": [
-    "إزالة التويكات",
-    "تحسين أداء الأداة بشكل عام",
-    "حل معظم المشاكل التقنية السابقة"
+    "إضافة قائمة الميموري كاش v1",
+    "اصلاح مشكلة نيفيديا بروفايل",
+    "اصلاح زر تشغيل الجيم لوب"
   ],
   "force_update": true
 }
