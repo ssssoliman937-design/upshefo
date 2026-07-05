@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1",
-  "min_required_version": "1.1",
+  "latest_version": "1.2",
+  "min_required_version": "1.2",
   "download_url": "https://github.com/your-username/SHEFO-TOOL/releases/download/v1.1/SHEFO_TOOL.exe",
   "changelog": [
     "إزالة التويكات",
