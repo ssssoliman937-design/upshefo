@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.0",
-  "min_required_version": "1.0.0",
-  "download_url": "https://github.com/your-username/SHEFO-TOOL/releases/download/v1.2.5/SHEFO_TOOL.exe",
+  "latest_version": "1.1",
+  "min_required_version": "1.1",
+  "download_url": "https://github.com/your-username/SHEFO-TOOL/releases/download/v1.1/SHEFO_TOOL.exe",
   "changelog": [
-    "إضافة دعم للويندوز 11",
-    "إصلاح مشكلة إغلاق الأداة المفاجئ",
-    "تحسين سرعة الأداء"
+    "إزالة التويكات",
+    "تحسين أداء الأداة بشكل عام",
+    "حل معظم المشاكل التقنية السابقة"
   ],
-  "force_update": false
+  "force_update": true
 }
