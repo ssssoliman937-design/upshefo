@@ -1,7 +1,7 @@
 {
   "latest_version": "1.6",
   "min_required_version": "1.6",
-  "download_url": "https://download1476.mediafire.com/srwte2b1j6rg2ukYdp3DaA03mnDgMyo-4LQsrg4cUYsrmMRWtLd9fjuEMKyZazMXesY_Osf8YuoweFL6jOKkOUkOok9HTUOqRv_sBibLj6_t90KokaUy6g0IiMMoqrCfTh4cdl_5YEQPc_jbgvxWAiIbTVOwrAcnCJ8tY6GepbAPodw/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "download_url": "https://download1076.mediafire.com/b4k238b2x8qgiX0Wv8RafnnOBn-VSmBQhAt6EKk0KJ0eUxagO1KNuxgTaaBQqxRyE8gBdWw1dn3LJdLe6JJBveO_ZZAXcJi5ypqJNWGLFLLhyLXFN79WC9MVFKD29wTilAe-pZiMO0fsNL53QMdxWfsqE3LNX1Vja1I3QOl2sEfqL9w/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
 "changelog": [
     "إضافة قائمة الميموري كاش v2 مع زر اختياري لاستثناء محاكي جيم لوب ومرفقاته",
     "إصلاح مشكلة عدم تفعيل 120 فريم في ملفات User Custom للنسخ الثلاث (السلس، المتوازن، فائق الدقة)",
