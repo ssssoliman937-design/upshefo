@@ -1,15 +1,24 @@
 {
-  "latest_version": "1.6",
-  "min_required_version": "1.6",
-  "download_url": "https://download1076.mediafire.com/b4k238b2x8qgiX0Wv8RafnnOBn-VSmBQhAt6EKk0KJ0eUxagO1KNuxgTaaBQqxRyE8gBdWw1dn3LJdLe6JJBveO_ZZAXcJi5ypqJNWGLFLLhyLXFN79WC9MVFKD29wTilAe-pZiMO0fsNL53QMdxWfsqE3LNX1Vja1I3QOl2sEfqL9w/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
-"changelog": [
-    "إضافة قائمة الميموري كاش v2 مع زر اختياري لاستثناء محاكي جيم لوب ومرفقاته",
-    "إصلاح مشكلة عدم تفعيل 120 فريم في ملفات User Custom للنسخ الثلاث (السلس، المتوازن، فائق الدقة)",
-    "تحديث الأوامر البرمجية لزر حذف التيمب (Temp) والكاش لتنظيف أعمق وأكثر فعالية",
-    "إجراء تحسينات برمجية شاملة لرفع كفاءة الأداة وتقليل استهلاكها لموارد الجهاز",
-    "إصلاح مشكلة اختفاء صورة أيقونة الأداة",
-    "إصلاح مشكلة نيفيديا بروفايل",
-    "إصلاح زر تشغيل الجيم لوب"
+  "latest_version": "1.7",
+  "min_required_version": "1.7",
+  "download_url": "https://download851.mediafire.com/tap8zxxu0kjgN-SGZ0XVv5o8cQ7H4_0aJhbwf3eVzZeC9aS6a2FZ9j0b5POvq4z12Kk6fxr3-EE4oeJUMmGxD5hktcLx7gtqevphyklpxXT3itj3kwrxz6SYN7xF4lvlqJYrMcjIjrqxIkBsfuby2RFaTFZzhJZWGrvDomSvLaFMEMQ/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "force_update": false,
+  "changelog": [
+    "--- [ الإصدار الجديد V1.7 / Version 1.7 Release ] ---",
+    "1. تم حل مشكلة تثبيت الـ 120 فريم على 90 فريم في المحاكي بالكامل.",
+    "2. فتح حد الـ 120 إطار بالثانية لجميع ملفات تسريع شيفو (السلس، المتوازن، والفائق).",
+    "3. إضافة زر لفتح معالج استعادة النظام (Restore) مباشرة لتسهيل الرجوع لنقاط الاستعادة.",
+    "4. تحسين استهلاك المعالج (CPU) بالخلفية للأداة بشكل كبير وجعلها خفيفة جداً.",
+    "5. توحيد خطوط الأداة إلى خط Tahoma فائق الوضوح والحدة وحل مشكلة الخط المنغوش.",
+    "6. عرض نصوص اللغة العربية بالترتيب الطبيعي الصحيح في جميع نوافذ وأقسام الأداة.",
+    "7. تحديث شكل بطاقات المهام وإضافة زوايا دائرية وتأثيرات إضاءة تفاعلية عند تمرير الفأرة.",
+    "---------------------------------------------------",
+    "1. Fixed 120 FPS target option inside GFX Engine tab (was locking at 90 FPS).",
+    "2. Unlocked 120 FPS maximum limit for Smooth, Balanced, and Ultra GFX profiles.",
+    "3. Added Windows System Restore Wizard shortcut button under Optimize Shefo.",
+    "4. Dramatically optimized background CPU consumption and polling intervals.",
+    "5. Unified application font to Tahoma for ultra-sharp, non-blurry text rendering.",
+    "6. Fixed Arabic text direction and word sequence across the entire application UI.",
+    "7. Redesigned command cards with modern rounded borders and hover highlight effects."
   ]
-  "force_update": true
 }
