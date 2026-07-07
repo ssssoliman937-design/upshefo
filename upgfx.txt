@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.5",
-  "min_required_version": "1.5",
+  "latest_version": "1.6",
+  "min_required_version": "1.6",
   "download_url": "https://download947.mediafire.com/uij4p4kd93agWas551HHDYu0efvkv7QOjS5uPBspWIlsHqkSD4tF91zWmhqD_-R1DD5MIrc-eoPjS7reklFRnKW4GFhlg9hZfEwQ_P_j3ZJh_vHsH1D9TMCmKoptDayTy8cJXt1UHmyZN7lLeeVCnoe3Ji4kufdny9eoCNOqf7coiVg/vfp3b5a8t04akzs/Shefo_GFX_Tool_Setup.exe",
   "changelog": [
     "إضافة قائمة الميموري كاش v1",
