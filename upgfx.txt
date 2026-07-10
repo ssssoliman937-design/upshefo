@@ -1,18 +1,26 @@
 {
   "latest_version": "1.9",
   "min_required_version": "1.9",
-  "download_url": "https://download1640.mediafire.com/9gvnlmudgupg16g_p2SkL42J7QPG-HLy9nKwoDMKVPVRG3D6bsRGlc01X5DkkSNwaooGOMlOoHyvWQWwIjA-lDbI7kaWOf1Axw1XWzUVu8Xad6IeR7I7gk7DGkbaUh6R14YuemrKkzWjPM9d7tscBpLZ7dM7Km6_S4hjAUKUYno/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
-  "force_update": false,
+  "download_url": "https://download1583.mediafire.com/wtk55zmbmxigur1iuBhzgEpj_CN5Zz6DywxI9zStxbujkG204zGuUAQtxB6sCbSnxRGNR7V5yCQdbZJeyO-0T1QL_B4BtWMZfYt3_o7qrZnxQ9-x3Lw89XENJjzKiZU4rHBuUyyuA86EbsJqNxxE12rBz6iZPcURXgKigbkjLJc/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "force_update": true,
   "changelog": [
-    "--- [ الإصدار الجديد V1.9 / Version 1.9 Release ] ---",
-    "1. حل مشكلة صلاحيات المسؤول وتصحيح مسار الأداة التلقائي لتجنب مشاكل التشغيل.",
-    "2. فحص وتأكيد صلاحيات الكتابة في السجل (Registry) الحقيقية وعرضها عند بدء التشغيل.",
-    "3. إعادة كتابة زر إصلاح كود 1 بالكامل باستخدام سكريبت PowerShell لحل مشاكل سياسة المجموعة.",
-    "4. إضافة ميزة الحذف والتنظيف العميق لمحاكي جيم لوب وملفاته المتبقية من الجذور.",
+    "⚡ --- [ الإصدار الجديد V1.9 / Version 1.9 Release ] --- ⚡",
+    "🛠️ 1. حل مشكلة صلاحيات المسؤول وتصحيح مسار الأداة التلقائي لتجنب مشاكل التشغيل.",
+    "🔍 2. فحص وتأكيد صلاحيات الكتابة في السجل (Registry) الحقيقية وعرضها عند بدء التشغيل.",
+    "🔧 3. إعادة كتابة زر إصلاح كود 1 بالكامل باستخدام سكريبت PowerShell لحل مشاكل سياسة المجموعة.",
+    "🧹 4. إضافة ميزة الحذف والتنظيف العميق لمحاكي جيم لوب وملفاته المتبقية من الجذور.",
+    "🎨 5. إعادة تصميم واجهة المستخدم بالكامل بسمة نيون للألعاب مذهلة واحترافية.",
+    "🔄 6. إصلاح مشكلة تكرار ظهور نافذة التحديث عند بدء التشغيل.",
+    "📥 7. إضافة خيار التحديث اليدوي (Manual Update) والتلقائي (Auto Update) لتحسين تجربة التحديث.",
+    "👁️ 8. تحسين وضوح نصوص الأزرار لتوفير تباين بصري ممتاز ومريح للعين.",
     "---------------------------------------------------",
-    "1. Fixed administrator UAC elevation and corrected application directory routing to avoid startup issues.",
-    "2. Implemented real HKLM registry write check during startup diagnostics to verify permissions.",
-    "3. Rewrote the 'Fix Code 1' button using direct PowerShell to reset Group Policies and clean registries.",
-    "4. Added GameLoop Deep Uninstaller to clean emulator processes, leftovers, and directories from roots."
+    "🛠️ 1. Fixed administrator UAC elevation and corrected application directory routing to avoid startup issues.",
+    "🔍 2. Implemented real HKLM registry write check during startup diagnostics to verify permissions.",
+    "🔧 3. Rewrote the 'Fix Code 1' button using direct PowerShell to reset Group Policies and clean registries.",
+    "🧹 4. Added GameLoop Deep Uninstaller to clean emulator processes, leftovers, and directories from roots.",
+    "🎨 5. Redesigned the entire user interface with a stunning neon gaming cyberpunk theme.",
+    "🔄 6. Fixed the duplicate update dialog popup issue at startup.",
+    "📥 7. Added dedicated Auto and Manual Update buttons to improve the update process.",
+    "👁️ 8. Improved button text color contrast for better readability and a premium feel."
   ]
 }
