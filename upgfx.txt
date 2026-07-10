@@ -1,20 +1,18 @@
 {
-  "latest_version": "1.8",
-  "min_required_version": "1.8",
-  "download_url": "https://download1500.mediafire.com/1ubblquyd4agpTGuQ7RHokGJCx9fAun-bTkW7KkwR4yJTjocALQBuoFD1h6nPGIM8Pn1NNHP3nK5uqXD9r5BQqkzy07heVL3m4Y4Lkqo-mZLGmgi0bW79Bdu7TrC7A3mLVUn1ia0db5MeGr1xlY9ayxonmrICFxDV-lNm0Nsp72cxxs/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "latest_version": "1.9",
+  "min_required_version": "1.9",
+  "download_url": "https://download1640.mediafire.com/9gvnlmudgupg16g_p2SkL42J7QPG-HLy9nKwoDMKVPVRG3D6bsRGlc01X5DkkSNwaooGOMlOoHyvWQWwIjA-lDbI7kaWOf1Axw1XWzUVu8Xad6IeR7I7gk7DGkbaUh6R14YuemrKkzWjPM9d7tscBpLZ7dM7Km6_S4hjAUKUYno/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
   "changelog": [
-    "--- [ الإصدار الجديد V1.8 / Version 1.8 Release ] ---",
-    "1. تم دمج وتثبيت حد الـ 120 إطار (120 FPS) لجودة Ultra HD و HDR بشكل تلقائي وثابت.",
-    "2. الحفاظ بالكامل على مخطط الأزرار، الحساسية، وألوان اللاعب عند تفعيل الـ 120 فريم.",
-    "3. تحسين طلب صلاحيات المسؤول (UAC) ليعمل فوراً عند الفتح لمنع أي لاغ للواجهة.",
-    "4. تطوير أمان التحديثات عبر فرض بروتوكول HTTPS وفحص توقيع الملفات قبل تشغيلها.",
-    "5. تقليل استهلاك موارد المعالج (CPU) في الخلفية بنسبة 50% لتخفيف الأداة تماماً.",
+    "--- [ الإصدار الجديد V1.9 / Version 1.9 Release ] ---",
+    "1. حل مشكلة صلاحيات المسؤول وتصحيح مسار الأداة التلقائي لتجنب مشاكل التشغيل.",
+    "2. فحص وتأكيد صلاحيات الكتابة في السجل (Registry) الحقيقية وعرضها عند بدء التشغيل.",
+    "3. إعادة كتابة زر إصلاح كود 1 بالكامل باستخدام سكريبت PowerShell لحل مشاكل سياسة المجموعة.",
+    "4. إضافة ميزة الحذف والتنظيف العميق لمحاكي جيم لوب وملفاته المتبقية من الجذور.",
     "---------------------------------------------------",
-    "1. Integrated and optimized 120 FPS target values for Ultra HD and HDR profiles.",
-    "2. Preserved player buttons layout, sensitivity, and crosshair colors when applying 120 FPS.",
-    "3. Optimized administrator UAC check to run instantly, eliminating window opening lag.",
-    "4. Enhanced update security by enforcing HTTPS and validating PE binary signatures.",
-    "5. Reduced background CPU consumption by 50% through optimized ADB polling."
+    "1. Fixed administrator UAC elevation and corrected application directory routing to avoid startup issues.",
+    "2. Implemented real HKLM registry write check during startup diagnostics to verify permissions.",
+    "3. Rewrote the 'Fix Code 1' button using direct PowerShell to reset Group Policies and clean registries.",
+    "4. Added GameLoop Deep Uninstaller to clean emulator processes, leftovers, and directories from roots."
   ]
 }
