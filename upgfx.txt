@@ -2,7 +2,7 @@
   "latest_version": "1.9",
   "min_required_version": "1.9",
   "download_url": "https://download1640.mediafire.com/9gvnlmudgupg16g_p2SkL42J7QPG-HLy9nKwoDMKVPVRG3D6bsRGlc01X5DkkSNwaooGOMlOoHyvWQWwIjA-lDbI7kaWOf1Axw1XWzUVu8Xad6IeR7I7gk7DGkbaUh6R14YuemrKkzWjPM9d7tscBpLZ7dM7Km6_S4hjAUKUYno/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
-  "force_update": true,
+  "force_update": false,
   "changelog": [
     "--- [ الإصدار الجديد V1.9 / Version 1.9 Release ] ---",
     "1. حل مشكلة صلاحيات المسؤول وتصحيح مسار الأداة التلقائي لتجنب مشاكل التشغيل.",
