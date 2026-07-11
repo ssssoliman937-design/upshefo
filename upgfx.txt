@@ -1,20 +1,18 @@
 {
-  "latest_version": "2.0",
-  "min_required_version": "2.0",
-  "download_url": "https://download1652.mediafire.com/efp8ig9gyywglQw7Lb5AYQtOJ21o6kZXWpRs8Y6o5IOuMXpWS1tUWFsfmTf6wE8bQRwVqNkRe0j9rYbkeXz9_7NzGka5PBv1y9JE8gVptxzu1uAIRoTZra35Bj5zS-LFrRoIs3q42mEN759f6h2CZPmuvDq54-xXHTSIPM64sSY/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "latest_version": "2.1",
+  "min_required_version": "2.1",
+  "download_url": "https://download1529.mediafire.com/p0asfuer0mggGKYoaFC915bKSQgvm9ydyjHr3BxUgjkNvQCf1lFgnP04y3o-KTZr40W6Q7Tw8DM2J1zyskLFMH_ZCYvf7Cx4rPoO1dYGBBgXL-_sXubsmF0u4YkSkVdwegbBhCIdLVs-giVjS9kLalM4GsG54L0yU7KmHEDeNsw/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
   "changelog": [
-    "⚡ --- [ الإصدار الجديد V2.0 / Version 2.0 Release ] --- ⚡",
-    "📱 1. تفعيل وضع ريد ماجيك لتغيير هوية المحاكي وفتح خيار 90 و 120 فريم تلقائياً.",
-    "🖱️ 2. تسريع استجابة اللمس وتقليل تأخير أزرار التحكم والحركة بشكل ملحوظ.",
-    "⚙️ 3. تطوير برنامج فورتكس لجدولة العمليات وإضافة دعم محرك المحاكي الجديد.",
-    "🧠 4. تفريغ الذاكرة العشوائية تلقائياً لعمليات جيم لوب النشطة لتحسين استقرار اللعب.",
-    "🎮 5. فرض تشغيل كرت الشاشة الخارجي للألعاب وتقليل الضغط على المعالج الرئيسي.",
+    "⚡ --- [ الإصدار الجديد V2.1 / Version 2.1 Release ] --- ⚡",
+    "🛠️ 1. إضافة قسم خدمات الويندوز لإيقاف وتشغيل خدمات الألعاب والتبويب نهائياً.",
+    "🎮 2. دعم تثبيت وفتح الـ 120 فريم (120 FPS) في ملفات شيفو (السلس، المتوازن، الفائق).",
+    "🧠 3. جعل استثناء محاكي جيم لوب دائماً وتلقائياً لمنع أي تشنج أو لاق أثناء اللعب.",
+    "📈 4. تحسين شريط التقدم ليعرض نسب التقدم الحقيقية للعمليات بالخلفية.",
     "---------------------------------------------------",
-    "📱 1. Added RedMagic Performance Mode to spoof device model to NX809J and unlock 90/120 FPS.",
-    "🖱️ 2. Reduced touch input lag and optimized WASD control response speed.",
-    "⚙️ 3. Enhanced Vortex Priority Optimizer and added synergy.exe to monitored processes.",
-    "🧠 4. Implemented dynamic memory purging (EmptyWorkingSet) using native Win32 API to free up RAM.",
-    "🎮 5. Force-enabled NVIDIA GPU threaded optimizations and minimized frame latency."
+    "🛠️ 1. Added Windows Services category to easily manage and permanently disable services.",
+    "🎮 2. Added support to lock 120 FPS in custom presets (Smooth, Balanced, High).",
+    "🧠 3. Permanently hardcoded GameLoop process exclusion in memory cleanups to avoid lag.",
+    "📈 4. Optimized command progress bar to show real percentages via background parsing."
   ]
 }
