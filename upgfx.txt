@@ -1,7 +1,7 @@
 {
   "latest_version": "2.1",
   "min_required_version": "2.1",
-  "download_url": "https://download1529.mediafire.com/p0asfuer0mggGKYoaFC915bKSQgvm9ydyjHr3BxUgjkNvQCf1lFgnP04y3o-KTZr40W6Q7Tw8DM2J1zyskLFMH_ZCYvf7Cx4rPoO1dYGBBgXL-_sXubsmF0u4YkSkVdwegbBhCIdLVs-giVjS9kLalM4GsG54L0yU7KmHEDeNsw/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "download_url": "https://download1527.mediafire.com/easmxximtbtgV6D9wPvH6DSMdabciXcUtuVi_XB8DW2sQCWTiPbyxT4JRUtPAXA3xSUI9UtBas8aKBKiB24_39aRtk8uUB-lDZKHpJ9fSbvl4uPxpsn-OYkxIr-8cA0CHsK8ujvajaL7i2H8pDHzuq6YTOGvZmQ_XOm7QdTkG2U/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
   "changelog": [
     "⚡ --- [ الإصدار الجديد V2.1 / Version 2.1 Release ] --- ⚡",
