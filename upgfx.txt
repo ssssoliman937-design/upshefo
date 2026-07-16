@@ -1,8 +1,8 @@
 {
-  "latest_version": "2.4",
-  "min_required_version": "2.4",
-  "download_url": "https://download1339.mediafire.com/0gkha26phxcgBq6p-b0Uvtv1BmjByukscUZ5hILHvhRkldqaYV8wuDdxS5SV0zPBKKGsIhEOK0_UofslG6yghuX1BoxXZ_66vprxl5rdma_hmNAOHA2danWsOecW_zO9oOLR34eRf4kiqZkXGAd6Zk9vvL0zuH4xwZK8XQY9yso/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
-  "force_update":fales,
+  "latest_version": "2.5",
+  "min_required_version": "2.5",
+  "download_url": "https://download940.mediafire.com/y9y2sr7ds57gKDH-f62nhJO81iHL73F6NHsn_VwXejVifGBCvKoI-dqonX9OpR72VcOvt55Gy9yjdk2dg0U6qln0rVvYlCVr7CFWWGke20RXDZ9a_ZPq2Mnrri6rXHYUlV44D9alnBX_TVPa-xPwgNfTFupykG2wGfLkTobOvUA/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "force_update": true,
   "changelog": [
     "⚡ --- [ الإصدار الجديد V2.5 / Version 2.5 Release ] --- ⚡",
     "🛠️ 1. حل مشكلة الانهيار عند تغيير حجم الخط وربطه بالـ DPI والتكبير.",
