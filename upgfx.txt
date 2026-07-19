@@ -1,16 +1,16 @@
 {
-  "latest_version": "2.6",
-  "min_required_version": "2.6",
-  "download_url": "https://download1472.mediafire.com/uerz9b2gv7qgZPOrWYupgwA7y8SBRPhUzAzTqfNgj28WwLnKST444t6IXkgNpQUuNl35-HUGfh9kDeq8Xwmmo0h-KZKvxsV8l4y5Wvl2S7TmVaM8Y-zDiZ_SAehwDGEmfCswZ3J-UEUzbvhWkRvchH0gkfBtYoM0a_CbU2x7WXY/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "latest_version": "2.7",
+  "min_required_version": "2.7",
+  "download_url": "https://download1593.mediafire.com/158jbs4no37grP8pqTqBmSfF2S58v9CrFML730wxa4T8jLbGcgEhBmk0T2q5dJgw0858GUnXsbqq_WesM4OHNe9-UHd1w55jpJlCUEiGWlE9u1923Kpchck58mbeCm6KoXU6cPhyGgTVFaymA8Y1ja9jxmLGEFSkiVDlK0Dcygo/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
   "changelog": [
-    "⚡ --- [ الإصدار الجديد V2.6 / Version 2.6 Release ] --- ⚡",
-    "🛠️ 1. حل مشكلة ألوان الشاشة (SH Color) وتعديلها حقيقياً عبر NVAPI وجداول جاما الويندوز.",
-    "🚀 2. تفعيل تسريع حركة الدودج (Dodge Boost) للتحكم WASD وتعديل قيم سرعة التوجيه برمجياً.",
-    "🧠 3. إضافة نظام الفحص والتعافي الذاتي عند حدوث أخطاء بالملفات أو الصلاحيات تلقائياً.",
+    "⚡ --- [ الإصدار الجديد V2.7 / Version 2.7 Release ] --- ⚡",
+    "🛠️ 1. دمج أدوات تحسين الأداء الـ 5 (CPU, GPU, RAM, Network, Services) في تبويب تسريع شيفو.",
+    "🚀 2. إزالة حقوق ملكية وكلمة مرور أدوات التحسين لتعمل مباشرة بكامل طاقتها مجاناً.",
+    "🧠 3. تشغيل أدوات التحسين بشكل مستقل وتفاعلي لتفادي تعليق واجهة البرنامج الرئيسية.",
     "---------------------------------------------------",
-    "🛠️ 1. Fixed monitor color presets (SH Color) and applied changes dynamically via NVAPI/GDI.",
-    "🚀 2. Enabled real dodge speedup (Dodge Boost) by modifying WASD keymaps programmatically.",
-    "🧠 3. Integrated automatic diagnostics and self-repair fallbacks for file/permission errors."
+    "🛠️ 1. Integrated the 5 rebranded batch optimizers (CPU, GPU, RAM, Network, Services) under the Optimize tab.",
+    "🚀 2. Completely bypassed password checks and removed all copyright watermarks from the tools.",
+    "🧠 3. Enabled interactive execution of the scripts in external CMD windows without blocking the main GUI."
   ]
 }
