@@ -1,16 +1,17 @@
 {
-  "latest_version": "2.7",
-  "min_required_version": "2.7",
-  "download_url": "https://download1593.mediafire.com/158jbs4no37grP8pqTqBmSfF2S58v9CrFML730wxa4T8jLbGcgEhBmk0T2q5dJgw0858GUnXsbqq_WesM4OHNe9-UHd1w55jpJlCUEiGWlE9u1923Kpchck58mbeCm6KoXU6cPhyGgTVFaymA8Y1ja9jxmLGEFSkiVDlK0Dcygo/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "latest_version": "2.8",
+  "min_required_version": "2.8",
+  "download_url": "hhttps://download1584.mediafire.com/r0ihlu07wsogNTqelsA73Z_348D4X6R22BWiDWyoWqNYpnZjyFzdAQiFtq3h4BGhZLdSnldbTxHJvlNvT_A1CNnqSnxTFfzvq7iQtz_NAsv5HtAYvrlye9HLDX_oKkuqE6xtTT9YbhFe9dztzTvZg30pfgBw5cfNfMlBmjJZOFH92g/eht61egcrde78pk/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
   "changelog": [
-    "⚡ --- [ الإصدار الجديد V2.7 / Version 2.7 Release ] --- ⚡",
-    "🛠️ 1. دمج أدوات تحسين الأداء الـ 5 (CPU, GPU, RAM, Network, Services) في تبويب تسريع شيفو.",
-    "🚀 2. إزالة حقوق ملكية وكلمة مرور أدوات التحسين لتعمل مباشرة بكامل طاقتها مجاناً.",
-    "🧠 3. تشغيل أدوات التحسين بشكل مستقل وتفاعلي لتفادي تعليق واجهة البرنامج الرئيسية.",
+    "⚡ --- [ الإصدار الجديد V2.8 / Version 2.8 Release ] --- ⚡",
+    "🚀 1. تحديث وتخصص فاحص توافق الأجهزة ومحاكي Active.sav مع دعم البناء والتحميل التفاعلي السريع.",
+    "🛠️ 2. دمج وتفعيل أدوات تسريع شيفو الـ 5 (المعالج، كارت الشاشة، الرام، الشبكة والبنج، والخدمات).",
+    "🔥 3. فتح خيار RedMagic 11 Pro 120 FPS وتخفيض زمن استجابة اللمس للوحة المفاتيح WASD.",
     "---------------------------------------------------",
-    "🛠️ 1. Integrated the 5 rebranded batch optimizers (CPU, GPU, RAM, Network, Services) under the Optimize tab.",
-    "🚀 2. Completely bypassed password checks and removed all copyright watermarks from the tools.",
-    "🧠 3. Enabled interactive execution of the scripts in external CMD windows without blocking the main GUI."
+    "⚡ --- [ Version 2.8 Release Highlights ] --- ⚡",
+    "🚀 1. Upgraded Hardware Compatibility Suite & Live Active.sav Generator with 1-click downloads.",
+    "🛠️ 2. Integrated 5 core performance optimizers (CPU, GPU, RAM, Network Ping, Services cleaner).",
+    "🔥 3. Unlocked RedMagic 11 Pro 120 FPS profile and lowered WASD touch/keyboard latency."
   ]
 }
