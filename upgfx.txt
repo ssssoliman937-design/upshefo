@@ -1,17 +1,19 @@
 {
-  "latest_version": "2.8",
-  "min_required_version": "2.8",
-  "download_url": "hhttps://download1584.mediafire.com/r0ihlu07wsogNTqelsA73Z_348D4X6R22BWiDWyoWqNYpnZjyFzdAQiFtq3h4BGhZLdSnldbTxHJvlNvT_A1CNnqSnxTFfzvq7iQtz_NAsv5HtAYvrlye9HLDX_oKkuqE6xtTT9YbhFe9dztzTvZg30pfgBw5cfNfMlBmjJZOFH92g/eht61egcrde78pk/Shefo_GFX_Tool_Setup.exe",
+  "latest_version": "2.9",
+  "min_required_version": "2.9",
+  "download_url": "https://download1514.mediafire.com/a2fr36x80svgwGQ6HgbC2eJ9dABBzKGqLL91YNxnEUXGLXoJH2D80Zcd0ljbqgXAMc1vPt1i2GULdk1myXbpQWGZBYA50G4tvKYqSZ_zUDfMx91jEGI5JSR6maDcTRowejPoLAru8i9BEG8MLy9m9jFW3-GkDLoB3zKs2vuQ2-odJg/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
   "changelog": [
-    "⚡ --- [ الإصدار الجديد V2.8 / Version 2.8 Release ] --- ⚡",
-    "🚀 1. تحديث وتخصص فاحص توافق الأجهزة ومحاكي Active.sav مع دعم البناء والتحميل التفاعلي السريع.",
-    "🛠️ 2. دمج وتفعيل أدوات تسريع شيفو الـ 5 (المعالج، كارت الشاشة، الرام، الشبكة والبنج، والخدمات).",
-    "🔥 3. فتح خيار RedMagic 11 Pro 120 FPS وتخفيض زمن استجابة اللمس للوحة المفاتيح WASD.",
+    "⚡ --- [ الإصدار الجديد V2.9 / Version 2.9 Release ] --- ⚡",
+    "🚀 1. تحديث وتخصيص التسريع الشامل وحزمة ريجستري CTT WinUtil الفائقة (95+ تعديل جديد مخصص للأداء والـ Input Lag).",
+    "🌐 2. دمج ميزة إلغاء ربط كارت الشبكة الزائد (Disable NIC Bindings) لتخفيض البنج والتقطيع (Jitter).",
+    "🖥️ 3. شريط بروجريس تفاعلي جديد مع كونسول Terminal CMD / PowerShell متطور لمتابعة التنفيذ لحظة بلحظة.",
+    "🛡️ 4. التشفير والبناء بلغة C++ عالية الأمان والسرعة مع حزمة التثبيت المعتمدة.",
     "---------------------------------------------------",
-    "⚡ --- [ Version 2.8 Release Highlights ] --- ⚡",
-    "🚀 1. Upgraded Hardware Compatibility Suite & Live Active.sav Generator with 1-click downloads.",
-    "🛠️ 2. Integrated 5 core performance optimizers (CPU, GPU, RAM, Network Ping, Services cleaner).",
-    "🔥 3. Unlocked RedMagic 11 Pro 120 FPS profile and lowered WASD touch/keyboard latency."
+    "⚡ --- [ Version 2.9 Release Highlights ] --- ⚡",
+    "🚀 1. Upgraded Master Super Boost & CTT WinUtil Registry Suite (95+ new performance & latency tweaks).",
+    "🌐 2. Integrated NIC Adapter Bindings optimization to minimize ping & network jitter.",
+    "🖥️ 3. Added interactive progress dialog with live CMD / PowerShell Terminal Console monitor.",
+    "🛡️ 4. Native C++ binary compilation and secure installer build."
   ]
 }
