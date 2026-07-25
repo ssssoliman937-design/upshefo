@@ -1,19 +1,19 @@
 {
-  "latest_version": "2.9",
-  "min_required_version": "2.9",
-  "download_url": "https://download1514.mediafire.com/a2fr36x80svgwGQ6HgbC2eJ9dABBzKGqLL91YNxnEUXGLXoJH2D80Zcd0ljbqgXAMc1vPt1i2GULdk1myXbpQWGZBYA50G4tvKYqSZ_zUDfMx91jEGI5JSR6maDcTRowejPoLAru8i9BEG8MLy9m9jFW3-GkDLoB3zKs2vuQ2-odJg/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "latest_version": "3.0",
+  "min_required_version": "3.0",
+  "download_url": "https://download1323.mediafire.com/7wmasr4vxang2VLkxoRCKJtQ_hQpnCqc3jRxLQus9Xcvv-IdLqU4C-v1W-Mz-ZGs5QvHEi2ojiNXTY1airwPy5od0T7mWbiE2Khw8AcHI2jfLesUm3rw1GzghMq11Ls0kqkaBlVC67H34mmOz7l_hc_cCU4I_Bts2FUvYLuxj4Fa4A/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
   "changelog": [
-    "⚡ --- [ الإصدار الجديد V2.9 / Version 2.9 Release ] --- ⚡",
-    "🚀 1. تحديث وتخصيص التسريع الشامل وحزمة ريجستري CTT WinUtil الفائقة (95+ تعديل جديد مخصص للأداء والـ Input Lag).",
-    "🌐 2. دمج ميزة إلغاء ربط كارت الشبكة الزائد (Disable NIC Bindings) لتخفيض البنج والتقطيع (Jitter).",
-    "🖥️ 3. شريط بروجريس تفاعلي جديد مع كونسول Terminal CMD / PowerShell متطور لمتابعة التنفيذ لحظة بلحظة.",
-    "🛡️ 4. التشفير والبناء بلغة C++ عالية الأمان والسرعة مع حزمة التثبيت المعتمدة.",
+    "⚡ --- [ الإصدار الجديد V3.0 / Version 3.0 Release ] --- ⚡",
+    "🚀 1. تحديث وتحديث الإصدار رسمياً إلى V3.0 مع الأداء العالي والتطوير الشامل.",
+    "🔐 2. قفل تبويب (VIP) تحسين وأداء النظام بباسورد وإخفائه أثناء الكتابة للحماية.",
+    "🖥️ 3. تحسينات تفاعلية استثنائية لأداء النظام وتسريع الألعاب.",
+    "🛡️ 4. حماية وتشفير عالي الأمان مع نظام التثبيت المعتمد.",
     "---------------------------------------------------",
-    "⚡ --- [ Version 2.9 Release Highlights ] --- ⚡",
-    "🚀 1. Upgraded Master Super Boost & CTT WinUtil Registry Suite (95+ new performance & latency tweaks).",
-    "🌐 2. Integrated NIC Adapter Bindings optimization to minimize ping & network jitter.",
-    "🖥️ 3. Added interactive progress dialog with live CMD / PowerShell Terminal Console monitor.",
-    "🛡️ 4. Native C++ binary compilation and secure installer build."
+    "⚡ --- [ Version 3.0 Release Highlights ] --- ⚡",
+    "🚀 1. Official V3.0 release upgrade with enhanced gaming optimizations.",
+    "🔐 2. Locked VIP System Optimization tab with password and hidden input characters.",
+    "🖥️ 3. Added maximum responsiveness tweaks and UI performance enhancements.",
+    "🛡️ 4. Native C++ binary security compilation and installer package."
   ]
 }
