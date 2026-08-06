@@ -1,19 +1,23 @@
 {
-  "latest_version": "3.0",
+  "latest_version": "3.1",
   "min_required_version": "3.0",
-  "download_url": "https://download1323.mediafire.com/7wmasr4vxang2VLkxoRCKJtQ_hQpnCqc3jRxLQus9Xcvv-IdLqU4C-v1W-Mz-ZGs5QvHEi2ojiNXTY1airwPy5od0T7mWbiE2Khw8AcHI2jfLesUm3rw1GzghMq11Ls0kqkaBlVC67H34mmOz7l_hc_cCU4I_Bts2FUvYLuxj4Fa4A/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "download_url": "https://download1349.mediafire.com/3crf43054cqg6OBuNSH8PjKzgUcEUW1zdi_ZSsuNscbIA1M7254eP0QsFaeCMNtswct1nN4PfCXCR209WlRr7ODc_0TC3d_Ak4nBSAekqV3KAsKIMQ2A2hBbj78iXhyXldiU0QdiVum-z9Qx3GHDAMaDut4fxDIZGCbhCjWCCMXF/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
   "force_update": true,
+  "stats": {
+    "downloads": 4180,
+    "devices": 610
+  },
   "changelog": [
-    "⚡ --- [ الإصدار الجديد V3.0 / Version 3.0 Release ] --- ⚡",
-    "🚀 1. تحديث وتحديث الإصدار رسمياً إلى V3.0 مع الأداء العالي والتطوير الشامل.",
-    "🔐 2. قفل تبويب (VIP) تحسين وأداء النظام بباسورد وإخفائه أثناء الكتابة للحماية.",
-    "🖥️ 3. تحسينات تفاعلية استثنائية لأداء النظام وتسريع الألعاب.",
-    "🛡️ 4. حماية وتشفير عالي الأمان مع نظام التثبيت المعتمد.",
+    "⚡ --- [ الإصدار الجديد V3.1 / Version 3.1 Release ] --- ⚡",
+    "🏠 1. لوحة تحكم رئيسية جديدة (Home Dashboard) كأول شاشة بعد فتح الأداة.",
+    "🎨 2. هوية بصرية جديدة بالكامل (برتقالي/تيل) بدل التصميم القديم.",
+    "🐛 3. إصلاح باج توقف الفريم ريت عند 60 FPS عند تعديل ملفات Active.sav.",
+    "⚡ 4. تحسين سرعة بدء التشغيل عبر تحميل التابات عند الحاجة فقط.",
     "---------------------------------------------------",
-    "⚡ --- [ Version 3.0 Release Highlights ] --- ⚡",
-    "🚀 1. Official V3.0 release upgrade with enhanced gaming optimizations.",
-    "🔐 2. Locked VIP System Optimization tab with password and hidden input characters.",
-    "🖥️ 3. Added maximum responsiveness tweaks and UI performance enhancements.",
-    "🛡️ 4. Native C++ binary security compilation and installer package."
+    "⚡ --- [ Version 3.1 Release Highlights ] --- ⚡",
+    "🏠 1. New Home Dashboard as the landing screen on launch.",
+    "🎨 2. Full visual identity refresh (orange/teal) replacing the old palette.",
+    "🐛 3. Fixed a bug capping FPS at 60 when editing Active.sav files.",
+    "⚡ 4. Faster startup via on-demand tab loading."
   ]
 }
