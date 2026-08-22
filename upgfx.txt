@@ -1,7 +1,7 @@
 {
   "latest_version": "3.1",
   "min_required_version": "3.1",
-  "download_url": "https://download1349.mediafire.com/3crf43054cqg6OBuNSH8PjKzgUcEUW1zdi_ZSsuNscbIA1M7254eP0QsFaeCMNtswct1nN4PfCXCR209WlRr7ODc_0TC3d_Ak4nBSAekqV3KAsKIMQ2A2hBbj78iXhyXldiU0QdiVum-z9Qx3GHDAMaDut4fxDIZGCbhCjWCCMXF/4w4c00jlgi6p4xe/Shefo_GFX_Tool_Setup.exe",
+  "download_url": "",
   "force_update": true,
   "stats": {
     "downloads": 4180,
